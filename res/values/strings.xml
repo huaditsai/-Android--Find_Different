@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Find_Different!</string>
+    <string name="app_name">Find_Different</string>
+    <string name="menu_about">關於</string>
+	<string name="menu_quit">結束</string>
+</resources>
